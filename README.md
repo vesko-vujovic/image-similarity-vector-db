@@ -65,5 +65,7 @@ Given a query image, its embedding is computed and compared to the stored vector
 The most similar images are retrieved from the database.
 
 ---
-![streamlit-ui](/posts/image-similarity-vector-db/image-similarity-ui.gif)
+
+### Whole app End to End
+![streamlit-ui](https://github.com/vesko-vujovic/image-similarity-vector-db/blob/master/image-similarity-ui.gif)
 
