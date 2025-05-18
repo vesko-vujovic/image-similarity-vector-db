@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+data/images/*
+qdrant_data/
+sample_search_images/
