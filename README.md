@@ -43,7 +43,7 @@ cd image-similarity-vector-db
 
 2. **Install dependencies:**
    
-Install the required Python packages (run the first cell of the notebook)
+```Install the required Python packages (run the first cell of the notebook)```
 
 
 4. **Launch the notebook:**
