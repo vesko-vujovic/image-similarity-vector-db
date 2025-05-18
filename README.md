@@ -42,10 +42,11 @@ cd image-similarity-vector-db
 ```
 
 2. **Install dependencies:**
+   
 Install the required Python packages (run the first cell of the notebook)
 
 
-3. **Launch the notebook:**
+4. **Launch the notebook:**
 
 ```bash
 jupyter notebook image-similarity-vector-db.ipynb
