@@ -5,13 +5,13 @@ This repository provides a Jupyter notebook that demonstrates how to perform ima
 
 ### Overview
 
-The notebook [`image-similarity-vector-db.ipynb`][^1] walks through the process of:
+The notebook [`image-similarity-vector-db.ipynb`] walks through the process of:
 
 - Extracting feature vectors (embeddings) from images using a pre-trained neural network.
 - Storing these embeddings in a vector database.
 - Performing a similarity search to find images most similar to a given query image.
 
-This approach is useful for duplicate detection, content-based image retrieval, and organizing large image datasets etc...
+This approach is useful for duplicate detection, content-based image retrieval, and organizing large image datasets, etc...
 
 ---
 
